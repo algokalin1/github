@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    color:lightgreen;
+    text-shadow:4px 3px 4px black;
+    text-align: center;
+    font-size:60px;
+}
+head{
+    background-color:lightskyblue;
+}
+footer{
+    background-image:linear-gradient(to bottom, black, red, black);
+    box-shadow: 5px 5px 5px black;
+    padding:15px;
+}
+body{
+    padding:6px;
+    background-image:linear-gradient(to bottom,purple,blue,skyblue,white,green,black);
+}
+li:hover{
+    color: purple;
+}
+
